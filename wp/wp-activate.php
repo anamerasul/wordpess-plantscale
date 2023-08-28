@@ -6,6 +6,8 @@
  * @package WordPress
  */
 
+ // Path: wp\wp-activate.php
+
 define( 'WP_INSTALLING', true );
 
 /** Sets up the WordPress Environment. */
